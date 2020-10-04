@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Shippal !
 
-You can use the [editor on GitHub](https://github.com/shippal/shippal.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Shippal is a set of website framework, build on top of react, nodejs and mongodb. Developer can use it to quickly build up a e-commerce web site, backoffice web site with/without backend.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+You can use the [shippal-web](https://github.com/shippal/shippal.github.io/edit/master/README.md) to create your e-commerce front-end, with authentication product, shopping card, order, transaction and payment module ready to use, by default it will connect to shippal cloud as it's backend.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can use the [shippal-backoffice](https://github.com/shippal/shippal.github.io/edit/master/README.md) to create your e-commerce backoffice, by default it will connect to shippal cloud as it's backend.
+
+You can use the [shippal-node](https://github.com/shippal/shippal.github.io/edit/master/README.md) to create your e-commerce back-end, with authentication product, shopping card, order, transaction and payment module ready to use!
+
+
+### Install
+
+Shippal is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
