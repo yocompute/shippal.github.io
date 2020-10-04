@@ -1,13 +1,12 @@
 ## Welcome to Shippal !
 
-Shippal is a set of website framework, build on top of react, nodejs and mongodb. Developer can use it to quickly build up a e-commerce web site, backoffice web site with/without backend.
-
+Shippal is a set of website framework, include a e-commerce website, a backoffice website and a backend, build on top of React, Material-ui, nodejs and mongodb. You can use it as a template project to quickly build up your e-commerce web site with a backoffice.
 
 You can use the [shippal-web](https://github.com/shippal/shippal.github.io/edit/master/README.md) to create your e-commerce front-end, with authentication product, shopping card, order, transaction and payment module ready to use, by default it will connect to shippal cloud as it's backend.
 
 You can use the [shippal-backoffice](https://github.com/shippal/shippal.github.io/edit/master/README.md) to create your e-commerce backoffice, by default it will connect to shippal cloud as it's backend.
 
-You can use the [shippal-node](https://github.com/shippal/shippal.github.io/edit/master/README.md) to create your e-commerce back-end, with authentication product, shopping card, order, transaction and payment module ready to use!
+Optionally, you can use the [shippal-node](https://github.com/shippal/shippal.github.io/edit/master/README.md) to create your e-commerce back-end, or you can choose to use shippal's cloud as your backend.
 
 
 ### Install
