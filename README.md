@@ -8,6 +8,8 @@ You can use the [shippal-backoffice](https://github.com/shippal/shippal.github.i
 
 Optionally, you can use the [shippal-node](https://github.com/shippal/shippal.github.io/edit/master/README.md) to create your e-commerce back-end, or you can choose to use shippal's cloud as your backend.
 
+### Demo
+[shippal-backoffice](http://shippal-backoffice.s3-website-us-east-1.amazonaws.com/)
 
 ### Install
 
