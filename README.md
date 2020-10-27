@@ -6,7 +6,7 @@ You can use the [shippal-web](https://github.com/yocompute/react-ecommerce) to c
 
 You can use the [shippal-backoffice](https://github.com/yocompute/react-backoffice) to create your e-commerce backoffice, by default it will connect to shippal cloud as it's backend.
 
-Optionally, you can use the [shippal-node](https://github.com/shippal/shippal.github.io) to create your e-commerce back-end, or you can choose to use shippal's cloud as your backend.
+Optionally, you can use the [shippal-node](https://github.com/yocompute/node-ecommerce) to create your e-commerce back-end, or you can choose to use shippal's cloud as your backend.
 
 ### Demo
 
