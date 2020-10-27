@@ -9,7 +9,9 @@ You can use the [shippal-backoffice](https://github.com/yocompute/react-backoffi
 Optionally, you can use the [shippal-node](https://github.com/shippal/shippal.github.io) to create your e-commerce back-end, or you can choose to use shippal's cloud as your backend.
 
 ### Demo
-[shippal-backoffice](http://shippal-backoffice.s3-website-us-east-1.amazonaws.com/)
+
+[shippal-backoffice](https://d26l46wwloz863.cloudfront.net)
+[shippal-web](https://d2g3r6wqsepu05.cloudfront.net)
 
 ### Install
 
