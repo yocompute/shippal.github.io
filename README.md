@@ -10,37 +10,27 @@ Optionally, you can use the [shippal-node](https://github.com/shippal/shippal.gi
 
 ### Demo
 
-[shippal-backoffice](https://d26l46wwloz863.cloudfront.net)
+[shippal-backoffice](https://d2g3r6wqsepu05.cloudfront.net)
 
-[shippal-web](https://d2g3r6wqsepu05.cloudfront.net)
+[shippal-web](https://d26l46wwloz863.cloudfront.net)
+
+
 
 ### Install
 
-Shippal is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- For local:
+Clone the project, run `npm install`, modify example.env to .env and change value in it, then run `npm test`
 
-```markdown
-Syntax highlighted code block
+- For production:
+Modify exmaple.env to .env.production, change the value and run `npm build`, copy the content in build folder to your server.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shippal/shippal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Test
 
 ### Support or Contact
 
