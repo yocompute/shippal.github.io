@@ -25,12 +25,8 @@ Clone the project, run `npm install`, modify example.env to .env and change valu
 Modify exmaple.env to .env.production, change the value and run `npm build`, copy the content in build folder to your server.
 
 
-1. Numbered
-2. List
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Test
+`npm run test`
 
 ### Support or Contact
 
