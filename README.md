@@ -10,9 +10,9 @@ Optionally, you can use the [shippal-node](https://github.com/yocompute/node-eco
 
 ### Demo
 
-[shippal-backoffice](https://d2g3r6wqsepu05.cloudfront.net)
+[shippal-backoffice](https://admin.yocompute.com)
 
-[shippal-web](https://d26l46wwloz863.cloudfront.net)
+[shippal-web](https://www.yocompute.com)
 
 
 
